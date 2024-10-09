@@ -1,6 +1,7 @@
 # Text_Summarization_LongT5
 This is an experimentation project attempted to explore the text summarization task and reproduce the results obtained in the original work by Guo, M and the team from Google that developed the Long T5 base model with the Tglobal attention mechanism. Considering the limitations of the computation resources and time, the evaluation was constrained to only 1000 test records of the PubMed Dataset, which took about 3 hours to obtain the results using T4 GPU. 
-Student Name: Kamatchi Gnanavel
+
+Student Name: Kamatchi Gnanavel\
 Student ID: 24998902
 
 # References
