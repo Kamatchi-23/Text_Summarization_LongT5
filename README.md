@@ -3,8 +3,10 @@ This is an experimentation project attempted to explore the text summarization t
 Student Name: Kamatchi Gnanavel
 Student ID: 24998902
 
-#References
+# References
 Guo, M., Ainslie, J., Uthus, D. C., Ontañón, S., Ni, J., Sung, Y.-H., & Yang, Y. (2022). LongT5: Efficient Text-To-Text Transformer for Long Sequences. https://doi.org/10.18653/v1/2022.findings-naacl.55 
+
 Summarization. (n.d.). Huggingface.co. https://huggingface.co/docs/transformers/en/tasks/summarization 
+
 Synced. (2021, December 21). Google’s Transformer-Based LongT5 Achieves Performance Gains by Scaling Both Input Length and Model Size. Medium; SyncedReview. https://medium.com/syncedreview/googles-transformer-based-longt5-achieves-performance-gains-by-scaling-both-input-length-and-model-687afb8a3274
 
